@@ -143,3 +143,6 @@ code{
 .sweet-alert.show-input input{
     color: #575757;   
 }
+.table > thead > tr > th{
+    border-bottom: 2px solid #7289da;
+}
