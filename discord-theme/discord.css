@@ -167,8 +167,6 @@ code{
 }
 #notifications-header{
     border: 0;
-}
-#notifications-markallread{
     border-color: #7289da;
 }
 .navbar-nav > .notifications-menu > .dropdown-menu > li.footer > a{
