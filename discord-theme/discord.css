@@ -146,3 +146,33 @@ code{
 .table > thead > tr > th{
     border-bottom: 2px solid #7289da;
 }
+/* Trixter needs 2 get gud w/ front-end */
+.dropdown-menu{
+    background-color: #2a2d32;
+    border: 0;
+}
+.navbar-nav > .notifications-menu > .dropdown-menu > li .menu > li > a{
+    border: 0;
+    color: #fff;
+}
+.navbar-nav > .notifications-menu > .dropdown-menu > li .menu > li > a:hover{
+    background-color: #2a2d32;
+}
+.notification{
+    background-color: #18191c;
+}
+#notifications-header{
+    background-color: transparent;
+    color: #fff;
+}
+#notifications-header{
+    border: 0;
+}
+#notifications-markallread{
+    border-color: #7289da;
+}
+.navbar-nav > .notifications-menu > .dropdown-menu > li.footer > a{
+    background-color: #7289da;
+    color: #fff !important;
+    border-color: #7289da;
+}
