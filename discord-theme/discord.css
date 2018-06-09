@@ -140,3 +140,6 @@ code{
 .nav-tabs-custom > .nav-tabs > li:hover{
     border-top-color: #7289da;
 }
+.sweet-alert.show-input input{
+    color: #575757;   
+}
