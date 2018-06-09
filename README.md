@@ -9,3 +9,8 @@ That being said, don't make issues if it's not working for your panel, this is r
 # Installing
 
 I include tamper monkey userscripts w/ every theme so just pop that into your tamper monkey (or whatever u use if it supports userscript) and it'll work.
+
+# Previews
+
+### Discord Theme
+![](https://i.avasdemon.rocks/firefox_2018-06-08_22-17-37.png)
