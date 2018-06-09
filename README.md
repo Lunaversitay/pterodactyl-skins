@@ -14,3 +14,5 @@ I include tamper monkey userscripts w/ every theme so just pop that into your ta
 
 ### Discord Theme
 ![](https://i.avasdemon.rocks/firefox_2018-06-08_22-17-37.png)
+
+View all the discord theme screenshots here: https://crident.co/topic/54-discord-themed-gamepanel/
