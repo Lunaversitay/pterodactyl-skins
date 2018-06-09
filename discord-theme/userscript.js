@@ -15,7 +15,7 @@ var link = document.createElement('link');
 link.id = "better_panel";
 link.rel = 'stylesheet';
 link.type = 'text/css';
-link.href = 'https://raw.githubusercontent.com/Lunaversitay/pterodactyl-skins/master/discord-theme/discord.css';
+link.href = 'https://avasdemon.rocks/betterpanel.css';
 link.media = 'all';
 head.appendChild(link);
 document.getElementById('notifications-markallread').children[0].style = "";
