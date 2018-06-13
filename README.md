@@ -1,11 +1,7 @@
 # Pterodactyl Skins
 
-I made a buncha skins for my favorite gamepanel.
-Most of them where made to support Cridents' https://gamepanel.co/ panel, which is Pterodactyl but heavily modified with a bunch of cool new features that the original Pterodactyl doesn't have.
-
-That being said, don't make issues if it's not working for your panel, this is really just for gamepanel.co users and others who may know how to modify it to use it on other pterodactyl panels. (Although it shouldn't necessarily break on any other panel)
-
-[![](https://cdn.discordapp.com/attachments/343156271630778372/454867588720230411/stop_paying_for_slots_luna.png)](https://crident.com/)
+Made this mainly for https://gamepanel.co (cridents' gamepanel) but it should work on every other since most are still on AdminLTE. Although there are features u can remove that are gamepanel.co specific such as notifications and other stuff that might not suit your panel.
+Even though this is only like a couple CSS files pls don't skid and pull the "I made it :reddit_smile:" meme thnx.
 
 # Installing
 
@@ -17,3 +13,5 @@ I include tamper monkey userscripts w/ every theme so just pop that into your ta
 ![](https://i.avasdemon.rocks/firefox_2018-06-08_22-17-37.png)
 
 View all the discord theme screenshots here: https://crident.co/topic/54-discord-themed-gamepanel/
+
+[![](https://cdn.discordapp.com/attachments/343156271630778372/454867588720230411/stop_paying_for_slots_luna.png)](https://crident.com/)
