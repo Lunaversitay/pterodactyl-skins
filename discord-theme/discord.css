@@ -172,3 +172,6 @@ code{
     color: #fff !important;
     border-color: #7289da;
 }
+tr.server-description>td{
+    display: none;
+}
