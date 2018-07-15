@@ -4,7 +4,7 @@
 // @version      0.2
 // @description  Easiest way to use the theme (noticiations are exclusive to gamepanel.co)
 // @author       Luna
-// @match        https://gamepanel.co/*
+// @match        https://dino.gg/*
 // @grant        none
 // ==/UserScript==
 
