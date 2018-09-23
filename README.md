@@ -1,6 +1,12 @@
+# NO LONGER UPDATED
+
+If you're using our god tier dino panel you can change to the themes in your account settings https://dino.gg/account
+
+![](https://i.avasdemon.rocks/firefox_2018-09-23_13-50-05.png)
+
 # Pterodactyl Skins
 
-Made this mainly for https://gamepanel.co (cridents' gamepanel) but it should work on every other since most are still on AdminLTE. Although there are features u can remove that are gamepanel.co specific such as notifications and other stuff that might not suit your panel.
+Made this mainly for https://dino.gg (cridents' gamepanel) but it should work on every other since most are still on AdminLTE. Although there are features u can remove that are gamepanel.co specific such as notifications and other stuff that might not suit your panel.
 Even though this is only like a couple CSS files pls don't skid and pull the "I made it :reddit_smile:" meme thnx.
 
 # Installing
