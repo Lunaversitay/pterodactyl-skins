@@ -1,23 +1,19 @@
-# NO LONGER UPDATED
-
-If you're using our god tier dino panel you can change to the themes in your account settings https://dino.gg/account
-
-![](https://i.avasdemon.rocks/firefox_2018-09-23_13-50-05.png)
+![](https://i.lunaversity.dev/firefox_nGNXqWenxt.png)
 
 # Pterodactyl Skins
 
-Made this mainly for https://dino.gg (cridents' gamepanel) but it should work on every other since most are still on AdminLTE. Although there are features u can remove that are gamepanel.co specific such as notifications and other stuff that might not suit your panel.
-Even though this is only like a couple CSS files pls don't skid and pull the "I made it :reddit_smile:" meme thnx.
+Got bored, made skins, I don't support them really but they should pretty much work on any version behind 0.8
 
-# Installing
+# Installing (Client)
 
-I include tamper monkey userscripts w/ every theme so just pop that into your tamper monkey (or whatever u use if it supports userscript) and it'll work.
+You can use the tamper monkey script included with the files on any pterodactyl site using the default theme
 
-# Previews
+# Installing (Server)
 
-### Discord Theme
-![](https://i.avasdemon.rocks/firefox_2018-06-08_22-17-37.png)
+If you want to install this on your machine all you have to do is add the css file to your public folder, then make the master blade & admin blade see it via `<link href="#" rel="stylesheet">`. It's that simple.
 
-View all the discord theme screenshots here: https://crident.co/topic/54-discord-themed-gamepanel/
+# Want to start your own host fast? Use wisp.gg
 
-[![](https://cdn.discordapp.com/attachments/343156271630778372/454867588720230411/stop_paying_for_slots_luna.png)](https://crident.com/)
+https://wisp.gg/
+
+![](https://i.lunaversity.dev/firefox_ReathX5ZsQ.png)
