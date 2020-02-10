@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Discord Theme
-// @namespace    https://lunaversity.me
-// @version      0.2
-// @description  Easiest way to use the theme (noticiations are exclusive to gamepanel.co)
+// @namespace    https://lunaversity.dev
+// @version      0.3
+// @description  Clients can use this theme on any default pterodactyl build
 // @author       Luna
-// @match        https://dino.gg/*
+// @match        https://demo.pterodactyl.io/*
 // @grant        none
 // ==/UserScript==
 
@@ -12,11 +12,9 @@
 var head = document.getElementsByTagName('head')[0];
 var body = document.getElementsByTagName('body')[0];
 var link = document.createElement('link');
-link.id = "better_panel";
+link.id = "lunar_discord_theme";
 link.rel = 'stylesheet';
 link.type = 'text/css';
-link.href = 'https://avasdemon.rocks/betterpanel.css';
+link.href = 'https://lunaversity.dev/discord_theme.css';
 link.media = 'all';
 head.appendChild(link);
-document.getElementById('notifications-markallread').children[0].style = "";
-document.getElementsByName("query")[0].style.width = "100%"; // drizzy thing he did on gamepanel.co
