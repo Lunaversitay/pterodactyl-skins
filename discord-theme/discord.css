@@ -1,10 +1,10 @@
+@charset "UTF-8";
+
 /**
-    Made on: gamepanel.co
-    By Lunaversity.me
-    See what offer code "Luna" does
-    
-    Do not redistrubute outside of gamepanel.co
+    Made on: dino.gg
+    By Lunaversity.dev
 */
+
 body,
 html{
     color: #fff;
@@ -141,7 +141,7 @@ code{
     border-top-color: #7289da;
 }
 .sweet-alert.show-input input{
-    color: #575757;   
+    color: #575757;
 }
 .table > thead > tr > th{
     border-bottom: 2px solid #7289da;
