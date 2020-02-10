@@ -7,6 +7,7 @@ Got bored, made skins, I don't support them really but they should pretty much w
 # Installing (Client)
 
 You can use the tamper monkey script included with the files on any pterodactyl site using the default theme
+All you need to do is change the @match tag to the URL you're using (ex: `https://dino.gg/*` )
 
 # Installing (Server)
 
