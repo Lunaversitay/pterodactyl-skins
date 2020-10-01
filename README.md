@@ -1,4 +1,4 @@
-![](https://i.lunaversity.dev/firefox_nGNXqWenxt.png)
+![](https://i.imgur.com/nPj7ZR5.png)
 
 # Pterodactyl Skins
 
